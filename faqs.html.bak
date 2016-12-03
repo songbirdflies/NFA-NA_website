@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> New Focus Auto </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="Sweet Song Designs">
+  <meta name="Keywords" content="NFA, New Focus Auto, North American">
+  <meta name="Description" content="NFA, New Focus Auto">
+  <link rel="stylesheet" type="text/css" href="css/style1.css" />
+
+
+<script type="text/javascript" src="javascript/jquery-1.2.1.pack.js"></script>
+	<script type="text/javascript" src="javascript/jMyCarousel.js"></script>
+	<!-- Optional -->
+	<script type="text/javascript" src="javascript/jquery.mousewheel.js"></script>
+	<script type="text/javascript">
+		$(function() {
+
+		    $(".jMyCarousel").jMyCarousel({
+		        visible: '5',
+		        eltByElt: true,
+		        evtStart: 'mousedown',
+		        evtStop: 'mouseup'
+		    });
+
+		});
+	</script>
+
+ </head>
+
+
+ 
+ <body background="images/carbonfiber.jpg">
+
+
+<div id="background" >
+
+<div id="container">
+	
+	<div id="logo">
+	<a href="index.html"><img src="images/nfa_logo1.png" border="0"></a><br />
+	New Focus Automotive Tech, Inc.
+	<br />
+	</div>
+	
+	<div id="nav">
+	<a class="nav" href="index.html">Home</a>
+	<a class="nav" href="about.html">About Us</a>
+	<a class="nav" href="products.html">Products</a>
+	<a class="nav" href="faqs.html"><b>FAQs</b></a>
+	<a class="nav" href="techsupport.html">Tech Support</a>
+	<a class="nav" href="news.html">News</a>
+	<a class="nav" href="contact.html">Contact Us</a>
+	<br />
+	</div>
+
+	<div id="content">
+	<img src="images/grey_top.png" align="right">
+	<blockquote>
+	<h1>Frequently Asked Questions</h1>
+	<blockquote>
+	<p> Content Coming Soon!</p>
+<p>
+</blockquote></blockquote>
+	</div>
+	<div id="grey_bottom">
+	<img src="images/grey_bottom.png" align="bottom">
+	</div>
+	
+	<div id="footer">
+	<center>
+	<a class="footer" href="terms.html">Terms & Conditions</a> &nbsp;| 
+	<a class="footer" href="sitemap.html">Site Map</a> &nbsp;| 
+	<a class="footer" href="terms.html" target="_blank">NFA China</a>
+	</center>
+	</div>
+</div>
+
+</div>
+
+
+
+
+ </body>
+</html>
